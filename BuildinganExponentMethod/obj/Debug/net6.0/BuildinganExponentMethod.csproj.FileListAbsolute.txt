@@ -1,0 +1,15 @@
+C:\Users\pollakmarina\source\repos\BuildinganExponentMethod\bin\Debug\net6.0\BuildinganExponentMethod.exe
+C:\Users\pollakmarina\source\repos\BuildinganExponentMethod\bin\Debug\net6.0\BuildinganExponentMethod.deps.json
+C:\Users\pollakmarina\source\repos\BuildinganExponentMethod\bin\Debug\net6.0\BuildinganExponentMethod.runtimeconfig.json
+C:\Users\pollakmarina\source\repos\BuildinganExponentMethod\bin\Debug\net6.0\BuildinganExponentMethod.dll
+C:\Users\pollakmarina\source\repos\BuildinganExponentMethod\bin\Debug\net6.0\BuildinganExponentMethod.pdb
+C:\Users\pollakmarina\source\repos\BuildinganExponentMethod\obj\Debug\net6.0\BuildinganExponentMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pollakmarina\source\repos\BuildinganExponentMethod\obj\Debug\net6.0\BuildinganExponentMethod.AssemblyInfoInputs.cache
+C:\Users\pollakmarina\source\repos\BuildinganExponentMethod\obj\Debug\net6.0\BuildinganExponentMethod.AssemblyInfo.cs
+C:\Users\pollakmarina\source\repos\BuildinganExponentMethod\obj\Debug\net6.0\BuildinganExponentMethod.csproj.CoreCompileInputs.cache
+C:\Users\pollakmarina\source\repos\BuildinganExponentMethod\obj\Debug\net6.0\BuildinganExponentMethod.dll
+C:\Users\pollakmarina\source\repos\BuildinganExponentMethod\obj\Debug\net6.0\refint\BuildinganExponentMethod.dll
+C:\Users\pollakmarina\source\repos\BuildinganExponentMethod\obj\Debug\net6.0\BuildinganExponentMethod.pdb
+C:\Users\pollakmarina\source\repos\BuildinganExponentMethod\obj\Debug\net6.0\BuildinganExponentMethod.genruntimeconfig.cache
+C:\Users\pollakmarina\source\repos\BuildinganExponentMethod\obj\Debug\net6.0\ref\BuildinganExponentMethod.dll
+C:\Users\pollakmarina\source\repos\BuildinganExponentMethod\obj\Debug\net6.0\BuildinganExponentMethod.sourcelink.json
