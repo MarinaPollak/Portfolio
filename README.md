@@ -4,7 +4,8 @@
 1.BigONotation 
 -----------------------------------------------
 
- [![Static Badge](https://img.shields.io/badge/link-here?style=for-the-badge&label=Big(O)%20notation&color=%231A9896&link=%20https%3A%2F%2Fgithub.com%2FMarinaPollak%2FPortfolio%2Ftree%2Fmain%2FBigONotation)] 
+ [![Static Badge](https://img.shields.io/badge/link-here?style=for-the-badge&label=Big(O)%20notation&color=%231A9896&link=%20https%3A%2F%2Fgithub.com%2FMarinaPollak%2FPortfolio%2Ftree%2Fmain%2FBigONotation)] (https://github.com/MarinaPollak/Portfolio/tree/main/BigONotation)
+
 
 
 
