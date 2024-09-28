@@ -2,7 +2,7 @@
 <br>
 
 Welcome to my Portfolio for the Algorithms class at Columbia College Chicago. 
->
+
 ```bash
   This repository showcases various algorithmic implementations and problem-solving techniques developed in C#. 
   These projects are designed to demonstrate my understanding of fundamental and advanced algorithmic concepts, 
