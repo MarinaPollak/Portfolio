@@ -1,7 +1,7 @@
 # Portfolio
 
 
-1.BigONotation 
+1.Big O Notation 
 -----------------------------------------------
 
 ![Static Badge](https://img.shields.io/badge/link-to?style=flat&color=%23747799)  https://github.com/MarinaPollak/Portfolio/tree/main/BigONotation
