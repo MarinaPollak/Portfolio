@@ -1,4 +1,4 @@
-# Building An ExponentMethod
+# Building An Exponential Method
 
 ## Pseudocode
 
@@ -43,4 +43,6 @@ The worst case occurs when powNum is a large number. In this case, the loop exec
 #### Summary
 Best Case: O(1) when powNum is 0.
 Worst Case: O(powerNumber) when powerNumber is a large number.
+
+[@marinapollak](https://github.com/MarinaPollak)
 
