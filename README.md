@@ -13,17 +13,18 @@ Welcome to my Portfolio for the Algorithms class at Columbia College Chicago.
 <h3>1. Big O Notation </h3>
 
 
- ![Static Badge](https://img.shields.io/badge/link-to?style=flat&color=%23747799) _https://github.com/MarinaPollak/Portfolio/tree/main/BigONotation_
+<a href="https://github.com/MarinaPollak/Portfolio/tree/main/BigONotation" title="Big O Notation"><i>Click Here</i></a>
 
 
 <br>
 <h3>2. The worst and best runtimes</h3>
 
 
- ![Static Badge](https://img.shields.io/badge/link-to?style=flat&color=%23747799)  _https://github.com/MarinaPollak/Portfolio/tree/main/BuildinganExponentMethod_
+<a href="https://github.com/MarinaPollak/Portfolio/tree/main/BuildinganExponentMetho" title="Building Exponential Method"><i>Click Here</i></a>
+ 
 
 <br>
 <h3>3. Crash Game</h3>
-<a href="https://github.com/MarinaPollak/Portfolio/tree/main/Match3Recursion" title="Grash Game"><i>Grash Game</i></a>
+<a href="https://github.com/MarinaPollak/Portfolio/tree/main/Match3Recursion" title="Grash Game"><i>Click Here</i></a>
 
 
