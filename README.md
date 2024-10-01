@@ -23,6 +23,6 @@ Welcome to my Portfolio for the Algorithms class at Columbia College Chicago.
  ![Static Badge](https://img.shields.io/badge/link-to?style=flat&color=%23747799)  _https://github.com/MarinaPollak/Portfolio/tree/main/BuildinganExponentMethod_
 
 <br>
-<h3>3.Crash Game</h3>
-
+<h3>3. Crash Game</h3>
+ ![Static Badge](https://img.shields.io/badge/link-to?style=flat&color=%23747799)
 _https://github.com/MarinaPollak/Portfolio/tree/main/Match3Recursion_
