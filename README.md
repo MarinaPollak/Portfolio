@@ -24,6 +24,6 @@ Welcome to my Portfolio for the Algorithms class at Columbia College Chicago.
 
 <br>
 <h3>3. Crash Game</h3>
-<a href="https://github.com/MarinaPollak/Portfolio/tree/main/Match3Recursion" title="Grash Game">Grash Game</a>
+<a href="https://github.com/MarinaPollak/Portfolio/tree/main/Match3Recursion" title="Grash Game"><i>Grash Game</i></a>
 
 
