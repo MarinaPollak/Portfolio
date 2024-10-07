@@ -33,4 +33,3 @@ Welcome to my Portfolio for the Algorithms class at Columbia College Chicago.
 <a href="https://github.com/MarinaPollak/Portfolio/tree/main/Connect4WPF" title="Connect"><i>Click Here</i></a>
 
 
-https://github.com/MarinaPollak/Portfolio/tree/main/Connect4WPF
