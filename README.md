@@ -38,6 +38,6 @@ Welcome to my Portfolio for the Algorithms class at Columbia College Chicago.
 <br>
 <h3>4. Fisher Yates Shuffle</h3>
 
-<a href="https://github.com/MarinaPollak/Portfolio/tree/main/Connect4WPF" title="Connect"><i>Click Here</i></a>
+<a href="https://github.com/MarinaPollak/Portfolio/tree/main/FisherYatesShuffle" title="Fisher Yates Shuffle"><i>Click Here</i></a>
 
 
