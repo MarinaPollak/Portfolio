@@ -1,0 +1,14 @@
+C:\Users\pollakmarina\source\repos\FisherYatesShuffle\bin\Debug\net6.0\FisherYatesShuffle.exe
+C:\Users\pollakmarina\source\repos\FisherYatesShuffle\bin\Debug\net6.0\FisherYatesShuffle.deps.json
+C:\Users\pollakmarina\source\repos\FisherYatesShuffle\bin\Debug\net6.0\FisherYatesShuffle.runtimeconfig.json
+C:\Users\pollakmarina\source\repos\FisherYatesShuffle\bin\Debug\net6.0\FisherYatesShuffle.dll
+C:\Users\pollakmarina\source\repos\FisherYatesShuffle\bin\Debug\net6.0\FisherYatesShuffle.pdb
+C:\Users\pollakmarina\source\repos\FisherYatesShuffle\obj\Debug\net6.0\FisherYatesShuffle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pollakmarina\source\repos\FisherYatesShuffle\obj\Debug\net6.0\FisherYatesShuffle.AssemblyInfoInputs.cache
+C:\Users\pollakmarina\source\repos\FisherYatesShuffle\obj\Debug\net6.0\FisherYatesShuffle.AssemblyInfo.cs
+C:\Users\pollakmarina\source\repos\FisherYatesShuffle\obj\Debug\net6.0\FisherYatesShuffle.csproj.CoreCompileInputs.cache
+C:\Users\pollakmarina\source\repos\FisherYatesShuffle\obj\Debug\net6.0\FisherYatesShuffle.dll
+C:\Users\pollakmarina\source\repos\FisherYatesShuffle\obj\Debug\net6.0\refint\FisherYatesShuffle.dll
+C:\Users\pollakmarina\source\repos\FisherYatesShuffle\obj\Debug\net6.0\FisherYatesShuffle.pdb
+C:\Users\pollakmarina\source\repos\FisherYatesShuffle\obj\Debug\net6.0\FisherYatesShuffle.genruntimeconfig.cache
+C:\Users\pollakmarina\source\repos\FisherYatesShuffle\obj\Debug\net6.0\ref\FisherYatesShuffle.dll
