@@ -1,0 +1,14 @@
+C:\Users\pollakmarina\source\repos\MaZeGame\bin\Debug\net6.0\MaZeGame.exe
+C:\Users\pollakmarina\source\repos\MaZeGame\bin\Debug\net6.0\MaZeGame.deps.json
+C:\Users\pollakmarina\source\repos\MaZeGame\bin\Debug\net6.0\MaZeGame.runtimeconfig.json
+C:\Users\pollakmarina\source\repos\MaZeGame\bin\Debug\net6.0\MaZeGame.dll
+C:\Users\pollakmarina\source\repos\MaZeGame\bin\Debug\net6.0\MaZeGame.pdb
+C:\Users\pollakmarina\source\repos\MaZeGame\obj\Debug\net6.0\MaZeGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pollakmarina\source\repos\MaZeGame\obj\Debug\net6.0\MaZeGame.AssemblyInfoInputs.cache
+C:\Users\pollakmarina\source\repos\MaZeGame\obj\Debug\net6.0\MaZeGame.AssemblyInfo.cs
+C:\Users\pollakmarina\source\repos\MaZeGame\obj\Debug\net6.0\MaZeGame.csproj.CoreCompileInputs.cache
+C:\Users\pollakmarina\source\repos\MaZeGame\obj\Debug\net6.0\MaZeGame.dll
+C:\Users\pollakmarina\source\repos\MaZeGame\obj\Debug\net6.0\refint\MaZeGame.dll
+C:\Users\pollakmarina\source\repos\MaZeGame\obj\Debug\net6.0\MaZeGame.pdb
+C:\Users\pollakmarina\source\repos\MaZeGame\obj\Debug\net6.0\MaZeGame.genruntimeconfig.cache
+C:\Users\pollakmarina\source\repos\MaZeGame\obj\Debug\net6.0\ref\MaZeGame.dll
