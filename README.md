@@ -43,6 +43,6 @@ Welcome to my Portfolio for the Algorithms class at Columbia College Chicago.
 <br>
 <h3>4. Maze Game</h3>
 
-<a href="https://github.com/MarinaPollak/Portfolio/tree/main/FisherYatesShuffle" title="Maze Game"><i>Click Here</i></a>
+<a href="https://github.com/MarinaPollak/Portfolio/tree/main/MaZeGame" title="Maze Game"><i>Click Here</i></a>
 
 
