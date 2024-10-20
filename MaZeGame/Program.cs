@@ -36,7 +36,7 @@ namespace MaZeGame
                     Console.Clear();
 
                     PrintMaze();
-                    Console.WriteLine("Move using arrow keys: ⬆️ ⬇️ ⬅️ ➡️");
+                    Console.WriteLine("Move using arrow keys: 👆🏼 👇🏼 👈🏼 👉🏼");
 
                     // Capture arrow key input
                     ConsoleKeyInfo keyInfo = Console.ReadKey(intercept: true);
