@@ -1,0 +1,27 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net6.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Icons\Bitcoin.png" />
+    <None Remove="Icons\Dogecoin.png" />
+    <None Remove="Icons\Ethereum.png" />
+    <None Remove="Icons\Litecoin.png" />
+    <None Remove="Icons\Ripple.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="Icons\Bitcoin.png" />
+    <Resource Include="Icons\Dogecoin.png" />
+    <Resource Include="Icons\Ethereum.png" />
+    <Resource Include="Icons\Litecoin.png" />
+    <Resource Include="Icons\Ripple.png" />
+  </ItemGroup>
+
+</Project>
