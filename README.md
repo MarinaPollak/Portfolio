@@ -45,4 +45,7 @@ Welcome to my Portfolio for the Algorithms class at Columbia College Chicago.
 
 <a href="https://github.com/MarinaPollak/Portfolio/tree/main/MaZeGame" title="Maze Game"><i>Click Here</i></a>
 
+<br>
+<h3>5. Data Structure</h3> 
+<a href = "https://github.com/MarinaPollak/Portfolio/tree/main/UserDataStructure" title="Data Sructure"><i>Click Here</i></a>
 
