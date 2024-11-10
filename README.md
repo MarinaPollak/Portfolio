@@ -49,3 +49,9 @@ Welcome to my Portfolio for the Algorithms class at Columbia College Chicago.
 <h3>5. Data Structure</h3> 
 <a href = "https://github.com/MarinaPollak/Portfolio/tree/main/UserDataStructure" title="Data Sructure"><i>Click Here</i></a>
 
+
+## LeetCode practice files 
+<a href = "https://github.com/MarinaPollak/Portfolio/tree/main/LeetCodeProblems" title="Leet Code"><i>Click Here</i></a>
+
+
+
