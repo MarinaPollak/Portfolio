@@ -1,5 +1,5 @@
 
-# C# Coding Solutions
+# C# LeetCode Practice
 
 This project contains multiple C# solutions to common coding problems. Each solution includes efficient methods with explanations and code examples.
 
