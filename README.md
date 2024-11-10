@@ -8,6 +8,8 @@ Welcome to my Portfolio for the Algorithms class at Columbia College Chicago.
   These projects are designed to demonstrate my understanding of fundamental and advanced algorithmic concepts, 
   along with clean code practices and efficient problem-solving approaches.
 
+  
+  ## <a href = "https://github.com/MarinaPollak/Portfolio/tree/main/LeetCodeProblems" title="Leet Code"><i>LeetCode practice files </i></a> 👈🏼
 
 <br>
 <h3>1. Big O Notation </h3>
@@ -50,8 +52,6 @@ Welcome to my Portfolio for the Algorithms class at Columbia College Chicago.
 <a href = "https://github.com/MarinaPollak/Portfolio/tree/main/UserDataStructure" title="Data Sructure"><i>Click Here</i></a>
 
 
-## LeetCode practice files 
-<a href = "https://github.com/MarinaPollak/Portfolio/tree/main/LeetCodeProblems" title="Leet Code"><i>Click Here</i></a>
 
 
 
