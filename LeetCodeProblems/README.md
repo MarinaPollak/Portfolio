@@ -1,98 +1,172 @@
-# Palindrome Integer Checker
 
-This project contains a C# program that checks if an integer is a palindrome. It uses integer manipulation to achieve an efficient solution, and this README will guide you through the code, setup, and explanations for each component.
+# C# Coding Solutions
+
+This project contains multiple C# solutions to common coding problems. Each solution includes efficient methods with explanations and code examples.
 
 ## Table of Contents
 1. [Overview](#overview)
-2. [Solution Explanation](#solution-explanation)
-3. [Code Breakdown](#code-breakdown)
-4. [Usage](#usage)
-5. [Examples](#examples)
-6. [Error Handling](#error-handling)
+2. [Sum of Two Integers in an Array](#sum-of-two-integers-in-an-array)
+3. [Sum of Two Linked Lists](#sum-of-two-linked-lists)
+4. [Palindrome Integer Checker](#palindrome-integer-checker)
 
 ## Overview
 
-A **palindromic integer** is one that reads the same forward and backward (e.g., `121` is a palindrome, but `123` is not). This project solves the problem by reversing half of the integer and checking if the original half matches the reversed half, which is efficient in both time and space complexity.
+This project includes the following solutions:
+- **Sum of Two Integers in an Array**: Finds two numbers in an array that add up to a specified target.
+- **Sum of Two Linked Lists**: Adds two non-empty linked lists representing integers in reverse order and returns their sum as a linked list.
+- **Palindrome Integer Checker**: Determines if a given integer is a palindrome.
 
-## Solution Explanation
+## Sum of Two Integers in an Array
 
-The main idea is to reverse half of the number and then compare the reversed half with the original half. This avoids reversing the entire number, saving memory and making the solution more efficient.
+Given an array of integers, the task is to find two numbers that add up to a specific target.
 
-### Steps of the Solution
-1. **Handle Edge Cases**:
-   - If the number is negative, it is not a palindrome.
-   - If the number ends with `0` but is not `0`, it cannot be a palindrome.
+### Code Explanation
 
-2. **Reverse Half of the Number**:
-   - Use the modulo operator (`%`) to extract the last digit of the number.
-   - Add this last digit to `reversedHalf` while progressively dividing `x` by `10` to remove the last digit.
-   - Continue until `x` is less than or equal to `reversedHalf`.
+The method uses a dictionary to store numbers as we iterate through the array, allowing us to find the complement (target - current number) in constant time.
 
-3. **Check for Palindromic Condition**:
-   - If `x` equals `reversedHalf` (for even-length numbers) or `x` equals `reversedHalf / 10` (for odd-length numbers), the number is a palindrome.
-
-## Code Breakdown
-
-### Program.cs
+### Code Example
 
 ```csharp
 using System;
+using System.Collections.Generic;
 
-public class Program
+public static int[] TwoSum(int[] nums, int target)
 {
-    public static void Main(string[] args)
+    Dictionary<int, int> map = new Dictionary<int, int>();
+    for (int i = 0; i < nums.Length; i++)
     {
-        Console.WriteLine("Enter a number to check if it's a palindrome:");
-        string input = Console.ReadLine();  // Read user input as a string
-
-        // Convert the input to an integer
-        if (int.TryParse(input, out int x))
+        int complement = target - nums[i];
+        if (map.ContainsKey(complement))
         {
-            bool isPalindrome = IsPalindrome(x);
-            Console.WriteLine($"Is {x} a palindrome? {isPalindrome}");
+            return new int[] { map[complement], i };
         }
-        else
-        {
-            Console.WriteLine("Invalid input. Please enter a valid integer.");
-        }
+        map[nums[i]] = i;
     }
+    return new int[0]; // Return empty array if no solution is found
+}
+```
 
-    // Define the IsPalindrome method
-    public static bool IsPalindrome(int x)
+### Usage
+
+1. Pass an integer array and a target integer to the `TwoSum` method.
+2. The method returns an array with the indices of the two numbers that add up to the target.
+
+### Example
+
+- Input: `nums = [2, 7, 11, 15], target = 9` → Output: `[0, 1]`
+
+---
+
+## Sum of Two Linked Lists
+
+This solution adds two numbers represented by two non-empty linked lists. The digits are stored in reverse order, and each node contains a single digit.
+
+### Code Explanation
+
+- The solution uses a loop to traverse both linked lists while keeping track of any "carry" from the previous addition.
+- Each digit is summed and added to a new linked list.
+
+### Code Example
+
+```csharp
+public class ListNode
+{
+    public int val;
+    public ListNode next;
+    public ListNode(int val = 0, ListNode next = null)
     {
-        // Negative numbers and numbers ending in zero (except zero itself) are not palindromes
-        if (x < 0 || (x % 10 == 0 && x != 0))
+        this.val = val;
+        this.next = next;
+    }
+}
+
+public class Solution
+{
+    public ListNode AddTwoNumbers(ListNode l1, ListNode l2)
+    {
+        ListNode dummy = new ListNode();
+        ListNode current = dummy;
+        int carry = 0;
+
+        while (l1 != null || l2 != null)
         {
-            return false;
+            int x = (l1 != null) ? l1.val : 0;
+            int y = (l2 != null) ? l2.val : 0;
+            int sum = x + y + carry;
+            carry = sum / 10;
+            current.next = new ListNode(sum % 10);
+            current = current.next;
+
+            if (l1 != null) l1 = l1.next;
+            if (l2 != null) l2 = l2.next;
         }
 
-        int reversedHalf = 0;
-        while (x > reversedHalf)
+        if (carry > 0)
         {
-            // Add the last digit of x to reversedHalf
-            reversedHalf = reversedHalf * 10 + x % 10;
-            // Remove the last digit from x
-            x /= 10;
+            current.next = new ListNode(carry);
         }
 
-        // Check if the number is a palindrome
-        return x == reversedHalf || x == reversedHalf / 10;
+        return dummy.next;
     }
 }
 ```
 
-## Usage
+### Usage
 
-1. Compile and run the program.
-2. Input an integer when prompted to check if it’s a palindrome.
-3. The program will output `true` if the integer is a palindrome and `false` otherwise.
+1. Create two linked lists representing numbers in reverse order.
+2. Call the `AddTwoNumbers` method with the linked lists as arguments.
+3. The method returns a linked list representing the sum.
 
-## Examples
+### Example
 
-- Input: `121` → Output: `true`
-- Input: `-121` → Output: `false`
-- Input: `10` → Output: `false`
+- Input: `l1 = [2, 4, 3], l2 = [5, 6, 4]` → Output: `[7, 0, 8]` (represents 807)
+
+---
+
+## Palindrome Integer Checker
+
+This solution checks if an integer is a palindrome (reads the same backward as forward).
+
+### Code Explanation
+
+The method reverses half of the integer and checks if it matches the other half, which allows the solution to avoid reversing the entire integer.
+
+### Code Example
+
+```csharp
+public static bool IsPalindrome(int x)
+{
+    if (x < 0 || (x % 10 == 0 && x != 0))
+    {
+        return false;
+    }
+
+    int reversedHalf = 0;
+    while (x > reversedHalf)
+    {
+        reversedHalf = reversedHalf * 10 + x % 10;
+        x /= 10;
+    }
+
+    return x == reversedHalf || x == reversedHalf / 10;
+}
+```
+
+### Usage
+
+1. Pass an integer to the `IsPalindrome` method.
+2. The method returns `true` if the integer is a palindrome, `false` otherwise.
+
+### Example
+
+- Input: `x = 121` → Output: `true`
+- Input: `x = -121` → Output: `false`
+
+---
 
 ## Error Handling
 
-If the user enters a non-integer input, the program will display an error message prompting for a valid integer.
+- **Sum of Two Integers in an Array**: Returns an empty array if no solution is found.
+- **Sum of Two Linked Lists**: Handles numbers of different lengths and adds any remaining carry to the result.
+- **Palindrome Integer Checker**: Returns `false` if the integer is negative or has a trailing zero (unless it’s `0`). For invalid input, `int.TryParse` is used to ensure safe conversion.
+
