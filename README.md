@@ -66,7 +66,7 @@ Welcome to my Portfolio for the Algorithms class at Columbia College Chicago.
 <br>
 <h3>6. Sorting Random Numbers</h3> 
 
->This console application demonstrates the use of common data structures in C#, including arrays, stacks, queues, and dictionaries.
+>This program provides a clear demonstration of basic sorting algorithms with step-by-step output, making it suitable for learning and understanding sorting techniques.
 
 <a href = "https://github.com/MarinaPollak/Portfolio/tree/main/SortingRandomNumbers" title="Data Sructure"><i>Click Here</i></a>
 
