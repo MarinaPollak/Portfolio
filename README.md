@@ -39,6 +39,7 @@ Welcome to my Portfolio for the Algorithms class at Columbia College Chicago.
 
 <br>
 <h3>4. Fisher Yates Shuffle</h3>
+
 >This program demonstrates the Fisher-Yates Shuffle Algorithm by implementing a card shuffling system within a simple card game. 
 
 <a href="https://github.com/MarinaPollak/Portfolio/tree/main/FisherYatesShuffle" title="Fisher Yates Shuffle"><i>Click Here</i></a>
