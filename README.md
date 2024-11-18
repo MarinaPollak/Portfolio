@@ -55,6 +55,7 @@ Welcome to my Portfolio for the Algorithms class at Columbia College Chicago.
 
 <br>
 <h3>6. Sorting Numbers</h3> 
+>This project implements three common sorting algorithms—Bubble Sort, Selection Sort, and Insertion Sort—to sort a list of random numbers. The project demonstrates how to work with a custom class (ComparableNumber) implementing the IComparable interface to enable sorting based on user-defined comparison logic.
 
 <a href = "https://github.com/MarinaPollak/Portfolio/tree/main/Sorting%20Numbers" title="Data Sructure"><i>Click Here</i></a>
 
