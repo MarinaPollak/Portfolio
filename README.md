@@ -51,6 +51,7 @@ Welcome to my Portfolio for the Algorithms class at Columbia College Chicago.
 <h3>5. Data Structure</h3> 
 <a href = "https://github.com/MarinaPollak/Portfolio/tree/main/UserDataStructure" title="Data Sructure"><i>Click Here</i></a>
 
+
 <br>
 <h3>6. Sorting Numbers</h3> 
 <a href = "https://github.com/MarinaPollak/Portfolio/tree/main/Sorting%20Numbers" title="Data Sructure"><i>Click Here</i></a>
