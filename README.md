@@ -64,7 +64,15 @@ Welcome to my Portfolio for the Algorithms class at Columbia College Chicago.
 
 
 <br>
-<h3>6. Sorting Numbers</h3> 
+<h3>6.Sorting Random Numbers</h3> 
+
+>This console application demonstrates the use of common data structures in C#, including arrays, stacks, queues, and dictionaries.
+
+<a href = "  " title="Data Sructure"><i>Click Here</i></a>
+
+
+<br>
+<h3>7. Sorting Numbers</h3> 
 
 >This project demonstrates six common sorting algorithms implemented in C#. It uses a dataset of 474 scores from a text file (scores.txt) and sorts them using each algorithm. The project also measures the performance of each algorithm in terms of execution time.
 
