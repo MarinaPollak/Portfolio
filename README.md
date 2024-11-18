@@ -22,7 +22,7 @@ Welcome to my Portfolio for the Algorithms class at Columbia College Chicago.
 <h3>2. The worst and best runtimes</h3>
 
 
-<a href="https://github.com/MarinaPollak/Portfolio/tree/main/BuildinganExponentMetho" title="Building Exponential Method"><i>Click Here</i></a>
+<a href="https://github.com/MarinaPollak/Portfolio/tree/main/BuildinganExponentMethod" title="Building Exponential Method"><i>Click Here</i></a>
  
 
 <br>
