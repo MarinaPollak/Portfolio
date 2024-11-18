@@ -45,6 +45,8 @@ Welcome to my Portfolio for the Algorithms class at Columbia College Chicago.
 <br>
 <h3>4. Maze Game</h3>
 
+>This is a simple console-based maze game implemented in C#. The goal of the game is to navigate a character through a 10x10 maze from a starting point to an exit point, avoiding walls along the way. 
+
 <a href="https://github.com/MarinaPollak/Portfolio/tree/main/MaZeGame" title="Maze Game"><i>Click Here</i></a>
 
 <br>
