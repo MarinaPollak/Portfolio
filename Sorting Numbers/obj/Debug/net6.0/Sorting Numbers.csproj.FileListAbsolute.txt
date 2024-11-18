@@ -1,0 +1,14 @@
+C:\Users\pollakmarina\source\repos\Sorting Numbers\bin\Debug\net6.0\Sorting Numbers.exe
+C:\Users\pollakmarina\source\repos\Sorting Numbers\bin\Debug\net6.0\Sorting Numbers.deps.json
+C:\Users\pollakmarina\source\repos\Sorting Numbers\bin\Debug\net6.0\Sorting Numbers.runtimeconfig.json
+C:\Users\pollakmarina\source\repos\Sorting Numbers\bin\Debug\net6.0\Sorting Numbers.dll
+C:\Users\pollakmarina\source\repos\Sorting Numbers\bin\Debug\net6.0\Sorting Numbers.pdb
+C:\Users\pollakmarina\source\repos\Sorting Numbers\obj\Debug\net6.0\Sorting Numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pollakmarina\source\repos\Sorting Numbers\obj\Debug\net6.0\Sorting Numbers.AssemblyInfoInputs.cache
+C:\Users\pollakmarina\source\repos\Sorting Numbers\obj\Debug\net6.0\Sorting Numbers.AssemblyInfo.cs
+C:\Users\pollakmarina\source\repos\Sorting Numbers\obj\Debug\net6.0\Sorting Numbers.csproj.CoreCompileInputs.cache
+C:\Users\pollakmarina\source\repos\Sorting Numbers\obj\Debug\net6.0\Sorting Numbers.dll
+C:\Users\pollakmarina\source\repos\Sorting Numbers\obj\Debug\net6.0\refint\Sorting Numbers.dll
+C:\Users\pollakmarina\source\repos\Sorting Numbers\obj\Debug\net6.0\Sorting Numbers.pdb
+C:\Users\pollakmarina\source\repos\Sorting Numbers\obj\Debug\net6.0\Sorting Numbers.genruntimeconfig.cache
+C:\Users\pollakmarina\source\repos\Sorting Numbers\obj\Debug\net6.0\ref\Sorting Numbers.dll
