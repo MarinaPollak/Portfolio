@@ -60,7 +60,7 @@ Welcome to my Portfolio for the Algorithms class at Columbia College Chicago.
 <br>
 <h3>6. Sorting Numbers</h3> 
 
->This project implements three common sorting algorithms—Bubble Sort, Selection Sort, and Insertion Sort—to sort a list of random numbers. The project demonstrates how to work with a custom class (ComparableNumber) implementing the IComparable interface to enable sorting based on user-defined comparison logic.
+>This project demonstrates six common sorting algorithms implemented in C#. It uses a dataset of 474 scores from a text file (scores.txt) and sorts them using each algorithm. The project also measures the performance of each algorithm in terms of execution time.
 
 <a href = "https://github.com/MarinaPollak/Portfolio/tree/main/Sorting%20Numbers" title="Data Sructure"><i>Click Here</i></a>
 
