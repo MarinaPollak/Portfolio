@@ -76,14 +76,14 @@ Welcome to my Portfolio for the Algorithms class at Columbia College Chicago.
 
 >This project demonstrates six common sorting algorithms implemented in C#. It uses a dataset of 474 scores from a text file (scores.txt) and sorts them using each algorithm. The project also measures the performance of each algorithm in terms of execution time.
 
-<a href = "https://github.com/MarinaPollak/Portfolio/tree/main/Sorting%20Numbers" title="Data Sructure"><i>Click Here</i></a>
+<a href = "https://github.com/MarinaPollak/Portfolio/tree/main/Sorting%20Numbers" title="Sorting Numbers"><i>Click Here</i></a>
 
 <br>
 <h3>8. Searching MVC website</h3> 
 
 >This project implemented in MVC website and demonstrates six common searching algorithms implemented in C#. It uses a dataset of 474 scores from a text file (scores.txt) and sorts them using each algorithm.
 
-<a href = "https://github.com/MarinaPollak/Portfolio/tree/main/Sorting%20Numbers" title="Data Sructure"><i>Click Here</i></a>
+<a href = "https://github.com/MarinaPollak/Portfolio/tree/main/SearchingMVC" title="Searching Numbers"><i>Click Here</i></a>
 
 
 
