@@ -1,0 +1,21 @@
+﻿@{
+    ViewBag.Title = "Search Numbers";
+}
+
+<h2>Search Numbers</h2>
+
+<form method="post" action="/Search/Search" class="form-group">
+    <label for="targetNumber">Enter a number to search:</label>
+    <input type="number" id="targetNumber" name="targetNumber" class="form-control" placeholder="Enter a number" required />
+    <button type="submit" class="btn btn-primary mt-2">Search</button>
+</form>
+
+
+@if (ViewBag.Target != null)
+{
+    <h3>Search Results for: @ViewBag.Target</h3>
+    <p>Linear Search: @ViewBag.LinearResult</p>
+    <p>Binary Search: @ViewBag.BinaryResult</p>
+    <p>Interpolation Search: @ViewBag.InterpolationResult</p>
+}
+
