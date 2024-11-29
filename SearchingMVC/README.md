@@ -1,5 +1,7 @@
 
 # Search Algorithms MVC Application
+<img width="1309" alt="Screenshot 2024-11-29 at 4 30 13 PM" src="https://github.com/user-attachments/assets/0f0daa1e-7c32-4172-9c98-42ae1d5a20dd">
+
 
 ## Description
 This is an ASP.NET Core MVC application that demonstrates the implementation of three common search algorithms: Linear Search, Binary Search, and Interpolation Search. Users can input a number, and the application searches for it in a predefined data file (`scores.txt`). The application also displays the results of each algorithm and highlights their efficiency.
