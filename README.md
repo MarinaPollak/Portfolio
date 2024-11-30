@@ -85,6 +85,13 @@ Welcome to my Portfolio for the Algorithms class at Columbia College Chicago.
 
 <a href = "https://github.com/MarinaPollak/Portfolio/tree/main/SearchingMVC" title="Searching Numbers"><i>Click Here</i></a>
 
+<br>
+<h3>8. Tree Structures</h3> 
+
+>This project implemented in MVC website and demonstrates six common searching algorithms implemented in C#. It uses a dataset of 474 scores from a text file (scores.txt) and sorts them using each algorithm.
+
+<a href = "https://github.com/MarinaPollak/Portfolio/tree/main/SearchingMVC" title="Searching Numbers"><i>Click Here</i></a>
+
 
 
 
