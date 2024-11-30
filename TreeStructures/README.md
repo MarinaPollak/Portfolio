@@ -5,6 +5,9 @@ This project demonstrates the implementation of a **Binary Search Tree (BST)** u
 The application loads a dataset of scores from a text file, sorts the scores, inserts them 
 into a BST, and performs various tree traversals (in-order, pre-order, and post-order).
 
+<img width="1166" alt="Screenshot 2024-11-29 at 7 49 05 PM" src="https://github.com/user-attachments/assets/3c9b38b1-d9aa-4ce9-9663-260515bd602a">
+
+
 ---
 
 ## Features
