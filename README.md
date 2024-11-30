@@ -88,7 +88,7 @@ Welcome to my Portfolio for the Algorithms class at Columbia College Chicago.
 <br>
 <h3>8. Tree Structures</h3> 
 
->This project implemented in MVC website and demonstrates six common searching algorithms implemented in C#. It uses a dataset of 474 scores from a text file (scores.txt) and sorts them using each algorithm.
+>This project demonstrates the implementation of a Binary Search Tree (BST) using C#. The application loads a dataset of scores from a text file, sorts the scores, inserts them into a BST, and performs various tree traversals (in-order, pre-order, and post-order).
 
 <a href = "https://github.com/MarinaPollak/Portfolio/tree/main/TreeStructures" title="Searching Numbers"><i>Click Here</i></a>
 
