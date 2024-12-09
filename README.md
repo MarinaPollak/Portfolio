@@ -38,7 +38,7 @@ Welcome to my Portfolio for the Algorithms class at Columbia College Chicago.
 
 
 <br>
-<h3>2. The worst and best runtimes</h3>
+<h3>2. The Worst and Best Runtimes</h3>
 
 >Demonstration and explaination of worst and best runtimes
 
