@@ -11,7 +11,7 @@ Welcome to my Portfolio for the Algorithms class at Columbia College Chicago.
   
   ## <a href = "https://github.com/MarinaPollak/Portfolio/tree/main/LeetCodeProblems" title="Leet Code"><i>LeetCode practice files </i></a> 👈🏼
 
-  ---
+ 
 
 ## Table of Contents
 
@@ -28,7 +28,7 @@ Welcome to my Portfolio for the Algorithms class at Columbia College Chicago.
 11. [Tree Structures](#tree-structures)
 12. [Maze Game Part 2](#maze-game-part-2)
 
----
+
 
 <br>
 <h3 id="big-o-notation">1. Big O Notation </h3>
