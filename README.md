@@ -95,7 +95,7 @@ Welcome to my Portfolio for the Algorithms class at Columbia College Chicago.
 <br>
 <h3>9. Maze Game Part 2</h3> 
 
->This project demonstrates the implementation of a Binary Search Tree (BST) using C#. The application loads a dataset of scores from a text file, sorts the scores, inserts them into a BST, and performs various tree traversals (in-order, pre-order, and post-order).
+>The game includes an AI solver that uses a Depth-First Search (DFS) algorithm to navigate the maze from the starting point to the exit.
 
 <a href = "https://github.com/MarinaPollak/Portfolio/tree/main/MaZeGame2" title="Searching Numbers"><i>Click Here</i></a>
 
