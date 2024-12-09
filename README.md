@@ -3,21 +3,16 @@
 
   # Algorithms Portfolio - C# (Columbia College Chicago)
 
->Welcome to my portfolio for the Algorithms class at Columbia College Chicago! This collection of projects demonstrates my skills in algorithm design, problem-solving, and clean coding practices using C#. Each project highlights a unique aspect of algorithmic theory and its practical implementation.
-In the first project, _[*Big O Notation*](#big-o-notation)_, I explored the core concept of algorithm efficiency. This project serves as a foundational reference for understanding runtime complexities and their impact on algorithm performance.
-Moving forward, I implemented a project titled [*Worst and Best Runtimes*](#worst-and-best-runtimes), which delves deeper into runtime analysis. This project features practical examples that showcase best-case and worst-case scenarios, with detailed explanations.
-Next, the [*Crash Game*](#crash-game) demonstrates recursion in action. This project is a fun and educational implementation of recursive logic, emphasizing its role in solving complex problems efficiently.
->
+<br>
+
+>This portfolio showcases a diverse collection of projects that highlight my expertise in algorithm design, data structures, and software development using C#. Through these projects, I have demonstrated a deep understanding of fundamental concepts like Big O notation and runtime analysis, as well as practical skills in implementing algorithms such as sorting, searching, and pathfinding. I have explored data structures, including stacks, queues, and binary search trees, while applying these structures to solve complex problems efficiently. My work also includes creative projects like grid-based games, recursive logic implementations, and randomized algorithms, reflecting my ability to combine theory with practical application. Additionally, I have developed console-based and graphical applications, illustrating my adaptability across different programming paradigms and environments. Together, these projects represent a comprehensive skill set in computational thinking, problem-solving, and clean coding practices.
+
+<br>
 
   ## <a href = "https://github.com/MarinaPollak/Portfolio/tree/main/LeetCodeProblems" title="Leet Code"><i>LeetCode practice files </i></a> 👈🏼
+  <br>
 
->The [*Connect Game*](#connect-game) showcases my ability to work with grid-based algorithms. This project combines event handling, grid manipulation, and match-checking algorithms to create a functional and engaging game.
-In the [*Fisher-Yates Shuffle*](#fisher-yates-shuffle) project, I implemented a robust algorithm for randomizing data. This project demonstrates the practical use of randomness in applications like card shuffling or data sampling.
-The [*Maze Game*](#maze-game) is a console-based project where players navigate through a 10x10 maze. This game highlights pathfinding and obstacle-avoidance algorithms, providing insight into grid-based problem solving.
-In the [*Data Structures*](#data-structures) project, I explored fundamental data structures such as stacks, queues, arrays, and dictionaries. Each implementation includes examples of their real-world applications and advantages.
-The [*Sorting Numbers*](#sorting-numbers) project features several sorting algorithms, including Bubble Sort, Merge Sort, and Quick Sort. This project includes performance analysis to evaluate the strengths and weaknesses of each method.
-Lastly, [*Maze Game Part 2*](#maze-game-part-2) builds upon the original maze game by introducing an AI solver. Using a depth-first search (DFS) algorithm, the AI efficiently navigates the maze, showcasing advanced problem-solving techniques.
-<br>
+
   
 
 
