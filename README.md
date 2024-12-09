@@ -13,7 +13,6 @@ The [*Maze Game*](#maze-game) is a console-based project where players navigate 
 In the [*Data Structures*](#data-structures) project, I explored fundamental data structures such as stacks, queues, arrays, and dictionaries. Each implementation includes examples of their real-world applications and advantages.
 The [*Sorting Numbers*](#sorting-numbers) project features several sorting algorithms, including Bubble Sort, Merge Sort, and Quick Sort. This project includes performance analysis to evaluate the strengths and weaknesses of each method.
 >Lastly, [*Maze Game Part 2*](#maze-game-part-2) builds upon the original maze game by introducing an AI solver. Using a depth-first search (DFS) algorithm, the AI efficiently navigates the maze, showcasing advanced problem-solving techniques.
----
 <br>
   
   ## <a href = "https://github.com/MarinaPollak/Portfolio/tree/main/LeetCodeProblems" title="Leet Code"><i>LeetCode practice files </i></a> 👈🏼
@@ -25,6 +24,7 @@ The [*Sorting Numbers*](#sorting-numbers) project features several sorting algor
 <br>
 <h3 id="big-o-notation">1. Big O Notation </h3>
 
+>This project serves as a foundational reference for understanding runtime complexities and their impact on algorithm performance.
 
 <a href="https://github.com/MarinaPollak/Portfolio/tree/main/BigONotation" title="Big O Notation"><i>Click Here</i></a>
 
