@@ -97,7 +97,7 @@ Welcome to my Portfolio for the Algorithms class at Columbia College Chicago.
 
 >This project demonstrates the implementation of a Binary Search Tree (BST) using C#. The application loads a dataset of scores from a text file, sorts the scores, inserts them into a BST, and performs various tree traversals (in-order, pre-order, and post-order).
 
-<a href = " " title="Searching Numbers"><i>Click Here</i></a>
+<a href = "https://github.com/MarinaPollak/Portfolio/tree/main/MaZeGame2" title="Searching Numbers"><i>Click Here</i></a>
 
 
 
