@@ -1,30 +1,20 @@
 
-Welcome to my Portfolio for the Algorithms class at Columbia College Chicago. 
+<br>
 
+  # Algorithms Portfolio - C# (Columbia College Chicago)
 
-  ># Algorithms Portfolio - C# (Columbia College Chicago)
-
-Welcome to my portfolio for the Algorithms class at Columbia College Chicago! This collection of projects demonstrates my skills in algorithm design, problem-solving, and clean coding practices using C#. Each project highlights a unique aspect of algorithmic theory and its practical implementation.
-
-In the first project, [**Big O Notation**](#big-o-notation), I explored the core concept of algorithm efficiency. This project serves as a foundational reference for understanding runtime complexities and their impact on algorithm performance.
-
-Moving forward, I implemented a project titled [**Worst and Best Runtimes**](#worst-and-best-runtimes), which delves deeper into runtime analysis. This project features practical examples that showcase best-case and worst-case scenarios, with detailed explanations.
-
-Next, the [**Crash Game**](#crash-game) demonstrates recursion in action. This project is a fun and educational implementation of recursive logic, emphasizing its role in solving complex problems efficiently.
-
-The [**Connect Game**](#connect-game) showcases my ability to work with grid-based algorithms. This project combines event handling, grid manipulation, and match-checking algorithms to create a functional and engaging game.
-
-In the [**Fisher-Yates Shuffle**](#fisher-yates-shuffle) project, I implemented a robust algorithm for randomizing data. This project demonstrates the practical use of randomness in applications like card shuffling or data sampling.
-
-The [**Maze Game**](#maze-game) is a console-based project where players navigate through a 10x10 maze. This game highlights pathfinding and obstacle-avoidance algorithms, providing insight into grid-based problem solving.
-
-In the [**Data Structures**](#data-structures) project, I explored fundamental data structures such as stacks, queues, arrays, and dictionaries. Each implementation includes examples of their real-world applications and advantages.
-
-The [**Sorting Numbers**](#sorting-numbers) project features several sorting algorithms, including Bubble Sort, Merge Sort, and Quick Sort. This project includes performance analysis to evaluate the strengths and weaknesses of each method.
-
-Lastly, [**Maze Game Part 2**](#maze-game-part-2) builds upon the original maze game by introducing an AI solver. Using a depth-first search (DFS) algorithm, the AI efficiently navigates the maze, showcasing advanced problem-solving techniques.
-
-
+>Welcome to my portfolio for the Algorithms class at Columbia College Chicago! This collection of projects demonstrates my skills in algorithm design, problem-solving, and clean coding practices using C#. Each project highlights a unique aspect of algorithmic theory and its practical implementation.
+>In the first project, _[*Big O Notation*](#big-o-notation)_, I explored the core concept of algorithm efficiency. This project serves as a foundational reference for understanding runtime complexities and their impact on algorithm performance.
+Moving forward, I implemented a project titled [*Worst and Best Runtimes*](#worst-and-best-runtimes), which delves deeper into runtime analysis. This project features practical examples that showcase best-case and worst-case scenarios, with detailed explanations.
+Next, the [*Crash Game*](#crash-game) demonstrates recursion in action. This project is a fun and educational implementation of recursive logic, emphasizing its role in solving complex problems efficiently.
+The [*Connect Game*](#connect-game) showcases my ability to work with grid-based algorithms. This project combines event handling, grid manipulation, and match-checking algorithms to create a functional and engaging game.
+In the [*Fisher-Yates Shuffle*](#fisher-yates-shuffle) project, I implemented a robust algorithm for randomizing data. This project demonstrates the practical use of randomness in applications like card shuffling or data sampling.
+The [*Maze Game*](#maze-game) is a console-based project where players navigate through a 10x10 maze. This game highlights pathfinding and obstacle-avoidance algorithms, providing insight into grid-based problem solving.
+In the [*Data Structures*](#data-structures) project, I explored fundamental data structures such as stacks, queues, arrays, and dictionaries. Each implementation includes examples of their real-world applications and advantages.
+The [*Sorting Numbers*](#sorting-numbers) project features several sorting algorithms, including Bubble Sort, Merge Sort, and Quick Sort. This project includes performance analysis to evaluate the strengths and weaknesses of each method.
+>Lastly, [*Maze Game Part 2*](#maze-game-part-2) builds upon the original maze game by introducing an AI solver. Using a depth-first search (DFS) algorithm, the AI efficiently navigates the maze, showcasing advanced problem-solving techniques.
+---
+<br>
   
   ## <a href = "https://github.com/MarinaPollak/Portfolio/tree/main/LeetCodeProblems" title="Leet Code"><i>LeetCode practice files </i></a> 👈🏼
 
@@ -50,6 +40,8 @@ Lastly, [**Maze Game Part 2**](#maze-game-part-2) builds upon the original maze 
 
 <br>
 <h3 id="crash-game">3. Crash Game</h3>
+
+>Demonstrates recursion in action. This project is a fun and educational implementation of recursive logic, emphasizing its role in solving complex problems efficiently.
 
 <a href="https://github.com/MarinaPollak/Portfolio/tree/main/Match3Recursion" title="Grash Game"><i>Click Here</i></a>
 
