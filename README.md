@@ -11,6 +11,25 @@ Welcome to my Portfolio for the Algorithms class at Columbia College Chicago.
   
   ## <a href = "https://github.com/MarinaPollak/Portfolio/tree/main/LeetCodeProblems" title="Leet Code"><i>LeetCode practice files </i></a> 👈🏼
 
+  ---
+
+## Table of Contents
+
+1. [Big O Notation](#big-o-notation)
+2. [The Worst and Best Runtimes](#the-worst-and-best-runtimes)
+3. [Crash Game](#crash-game)
+4. [Connect Game](#connect-game)
+5. [Fisher-Yates Shuffle](#fisher-yates-shuffle)
+6. [Maze Game](#maze-game)
+7. [Data Structures](#data-structures)
+8. [Sorting Random Numbers](#sorting-random-numbers)
+9. [Sorting Numbers](#sorting-numbers)
+10. [Searching MVC Website](#searching-mvc-website)
+11. [Tree Structures](#tree-structures)
+12. [Maze Game Part 2](#maze-game-part-2)
+
+---
+
 <br>
 <h3>1. Big O Notation </h3>
 
